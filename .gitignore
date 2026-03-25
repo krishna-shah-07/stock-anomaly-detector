@@ -1,3 +1,5 @@
 /.env
 /analyze_results.py
 /venv
+/src/__pycache__
+/models
